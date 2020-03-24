@@ -1,0 +1,12 @@
+.login-body {
+  background-color: rgb(204, 111, 6);
+}
+.login-container {
+  display: flex;
+  margin-top: 40px;
+}
+.login-container .card {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 20px;
+}

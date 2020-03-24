@@ -1,0 +1,15 @@
+.footer-class {
+  margin-bottom: 15px;
+  background-color: #eb7c06;
+  color: white;
+  border: 5px;
+  border-radius: 5px;
+}
+
+#header-class {
+  margin-top: 10px;
+  background-color: #ff8400;
+  color: white;
+  border: 5px;
+  border-radius: 5px;
+}
